@@ -1,0 +1,14 @@
+layout_spectrum: 0.03372913016937673
+typography_spectrum: 0.10625701257959008
+color:
+  brandStrength: 0.6417563923168927
+  lightness: 0.8565538313705474
+  saturation: 0.8113501605112106
+  rhythmicContrast: 0.7018357564229518
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: inigo
